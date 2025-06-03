@@ -52,10 +52,9 @@ def image_terminal(image_path1):
             s += chars[len(chars) - int(gray_image[x, y] / coef) - 1]
 
         print(s)
-        # print('-' * 50)
-        # time.sleep(0.5)
+        
 
-# /home//PycharmProjects/PythonProject1/Text_file/img_ASCII
+
 
 
 
@@ -92,7 +91,7 @@ def video_cmd(video_path):
 
 
 
-    # Чтения файла
+    
     while True:
         ret, frame = cap.read()
         if not ret:
@@ -114,14 +113,7 @@ def video_cmd(video_path):
 
         print(ascii_frame)
 
-        # time.sleep(0.01)
-        # kass = cv2.waitKey(30) & 0xFF
-        # if kass == ord('q'):
-        #     print('\n---Выход по запросу---')
-        #     break
-        # elif kass == 'p':
-        #     paused = not paused
-        #     print('\n---Пауза---' if paused else '\n---Возобновлено---')
+    
         time.sleep(0.01)
 
     cap.release()
