@@ -64,7 +64,7 @@
 ## ⚙️ Установка
 1. Клонировать репозиторий:
 ```bash
-git clone 
+git clone git@github.com:Nami-can/ASCII-Art-Convert.git
 ```
 
 
