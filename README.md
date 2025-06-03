@@ -36,12 +36,12 @@
 
 
 
-![Снимок экрана от 2025-06-03 21-07-30.png](../my_projects/ASCII_art/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-06-03%2021-07-30.png)
+![Пример работы ASCII-Art](https://raw.githubusercontent.com/Nami-can/ASCII-Art-Convert/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-06-03%2021-07-30.png)
 
   
 - **Видео → ASCII-арт**
 
-![IMG_6050.gif](../my_projects/ASCII_art/video/IMG_6050.gif)
+![Демонстрация работы программы](https://raw.githubusercontent.com/Nami-can/ASCII-Art-Convert/main/video/IMG_6050.gif)
 
 
 
@@ -51,10 +51,10 @@
 
 - **Текст → ASCII-арт**
 
+![Пример работы программы](https://raw.githubusercontent.com/Nami-can/ASCII-Art-Convert/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-06-03%2021-49-04.png)
 
 
 
-![Снимок экрана от 2025-06-03 21-49-04.png](../my_projects/ASCII_art/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-06-03%2021-49-04.png)
 
 ## 🖥 Использование
 1. Работа с изображениями
