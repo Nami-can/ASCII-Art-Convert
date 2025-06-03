@@ -55,7 +55,7 @@ def image_terminal(image_path1):
         # print('-' * 50)
         # time.sleep(0.5)
 
-# /home/zeka/PycharmProjects/PythonProject1/Text_file/img_ASCII
+# /home//PycharmProjects/PythonProject1/Text_file/img_ASCII
 
 
 
